@@ -1,0 +1,35 @@
+C:\Users\Чижова\Documents\Visual Studio 2015\Projects\METANITLESSON\Inspection\Inspection\bin\Debug\Inspection.exe.config
+C:\Users\Чижова\Documents\Visual Studio 2015\Projects\METANITLESSON\Inspection\Inspection\bin\Debug\InspectorDB.mdf
+C:\Users\Чижова\Documents\Visual Studio 2015\Projects\METANITLESSON\Inspection\Inspection\bin\Debug\InspectorDB_log.ldf
+C:\Users\Чижова\Documents\Visual Studio 2015\Projects\METANITLESSON\Inspection\Inspection\bin\Debug\Inspection.exe
+C:\Users\Чижова\Documents\Visual Studio 2015\Projects\METANITLESSON\Inspection\Inspection\bin\Debug\Inspection.pdb
+C:\Users\Чижова\Documents\Visual Studio 2015\Projects\METANITLESSON\Inspection\Inspection\obj\Debug\Inspection.csprojResolveAssemblyReference.cache
+C:\Users\Чижова\Documents\Visual Studio 2015\Projects\METANITLESSON\Inspection\Inspection\obj\Debug\Inspection.Form1.resources
+C:\Users\Чижова\Documents\Visual Studio 2015\Projects\METANITLESSON\Inspection\Inspection\obj\Debug\Inspection.Properties.Resources.resources
+C:\Users\Чижова\Documents\Visual Studio 2015\Projects\METANITLESSON\Inspection\Inspection\obj\Debug\Inspection.csproj.GenerateResource.Cache
+C:\Users\Чижова\Documents\Visual Studio 2015\Projects\METANITLESSON\Inspection\Inspection\obj\Debug\Inspection.exe
+C:\Users\Чижова\Documents\Visual Studio 2015\Projects\METANITLESSON\Inspection\Inspection\obj\Debug\Inspection.pdb
+C:\Users\Чижова\Desktop\Зак_Диплом\Inspection\Inspection\bin\Debug\Inspection.exe.config
+C:\Users\Чижова\Desktop\Зак_Диплом\Inspection\Inspection\obj\Debug\Inspection.exe
+C:\Users\Чижова\Desktop\Зак_Диплом\Inspection\Inspection\obj\Debug\Inspection.pdb
+C:\Users\Чижова\Desktop\Зак_Диплом\Inspection\Inspection\bin\Debug\InspectorDB.mdf
+C:\Users\Чижова\Desktop\Зак_Диплом\Inspection\Inspection\bin\Debug\InspectorDB_log.ldf
+C:\Users\Чижова\Desktop\Зак_Диплом\Inspection\Inspection\bin\Debug\Inspection.exe
+C:\Users\Чижова\Desktop\Зак_Диплом\Inspection\Inspection\bin\Debug\Inspection.pdb
+C:\Users\Чижова\Desktop\Зак_Диплом\Inspection\Inspection\obj\Debug\Inspection.csprojResolveAssemblyReference.cache
+C:\Users\Чижова\Desktop\Зак_Диплом\Inspection\Inspection\obj\Debug\Inspection.Form1.resources
+C:\Users\Чижова\Desktop\Зак_Диплом\Inspection\Inspection\obj\Debug\Inspection.Properties.Resources.resources
+C:\Users\Чижова\Desktop\Зак_Диплом\Inspection\Inspection\obj\Debug\Inspection.csproj.GenerateResource.Cache
+C:\Users\Чижова\Desktop\Зак_Диплом\Inspection\Inspection\obj\Debug\Inspection.ScanVievForm.resources
+C:\Users\Чижова\Desktop\Мои программы\Зак_Диплом\Inspection\Inspection\bin\Debug\InspectorDB.mdf
+C:\Users\Чижова\Desktop\Мои программы\Зак_Диплом\Inspection\Inspection\bin\Debug\InspectorDB_log.ldf
+C:\Users\Чижова\Desktop\Мои программы\Зак_Диплом\Inspection\Inspection\bin\Debug\Inspection.exe.config
+C:\Users\Чижова\Desktop\Мои программы\Зак_Диплом\Inspection\Inspection\bin\Debug\Inspection.exe
+C:\Users\Чижова\Desktop\Мои программы\Зак_Диплом\Inspection\Inspection\bin\Debug\Inspection.pdb
+C:\Users\Чижова\Desktop\Мои программы\Зак_Диплом\Inspection\Inspection\obj\Debug\Inspection.csprojResolveAssemblyReference.cache
+C:\Users\Чижова\Desktop\Мои программы\Зак_Диплом\Inspection\Inspection\obj\Debug\Inspection.Form1.resources
+C:\Users\Чижова\Desktop\Мои программы\Зак_Диплом\Inspection\Inspection\obj\Debug\Inspection.Properties.Resources.resources
+C:\Users\Чижова\Desktop\Мои программы\Зак_Диплом\Inspection\Inspection\obj\Debug\Inspection.ScanVievForm.resources
+C:\Users\Чижова\Desktop\Мои программы\Зак_Диплом\Inspection\Inspection\obj\Debug\Inspection.csproj.GenerateResource.Cache
+C:\Users\Чижова\Desktop\Мои программы\Зак_Диплом\Inspection\Inspection\obj\Debug\Inspection.exe
+C:\Users\Чижова\Desktop\Мои программы\Зак_Диплом\Inspection\Inspection\obj\Debug\Inspection.pdb
